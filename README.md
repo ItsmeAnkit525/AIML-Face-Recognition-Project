@@ -59,5 +59,3 @@ python main.py
 This project was developed by Ankit Agrawal as part of AIML Project. Special thanks to Srinivasa K G sir.
 
 ## License
-
-[Include your license here. For example: This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.]
